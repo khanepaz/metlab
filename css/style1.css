@@ -1,0 +1,121 @@
+.swal2-popup {
+  font-family: yekanbakh;
+  font-size: 2rem !important;
+}
+
+.swal2-icon {
+  border-color: #1dc334 !important;
+  color: #1dc334 !important;
+}
+
+.swiper-button-prev,
+.swiper-button-next {
+  position: static;
+  height: 24px;
+  width: 24px;
+  transition: .15s;
+
+}
+
+.swiper-pagination-bullets {
+  width: auto;
+}
+
+.swiper-pagination-bullet {
+  margin: 0 5px !important;
+  height: 10px;
+  width: 10px;
+}
+
+
+.swiper-pagination-bullet-active {
+  background-color: blue !important;
+}
+
+
+
+.swiper-button-prev,
+.swiper-button-next svg {
+
+  fill: transparent !important;
+  stroke: default-text-color !important;
+
+}
+
+
+.whiteSlide .swiper-119 .swiper-pagination-bullet-active {
+  background-color: blue !important;
+}
+
+.box-119 {
+  width: 380px !important;
+  height: 428px !important;
+
+
+}
+
+
+.box-119-inner {
+  opacity: 0;
+  border: 1px solid #E0E0E0;
+  transition: .15s;
+}
+
+/* To restrict styles to the current slide, panel, or example use [this] */
+
+.btn-142 {
+  top: 50%;
+  transform: translateY(-50%);
+  transition: .15s;
+}
+
+.slider-prev {
+  left: -65px;
+}
+
+.slider-next {
+  right: -65px;
+}
+
+.slider-prev {
+  transform: translateX(-100%);
+  left: 50%;
+}
+
+.slider-next {
+  transform: translateX(100%);
+  right: 50%;
+}
+
+
+
+.controller-142 li {
+
+  padding: 0;
+  height: 10px;
+  width: 10px;
+  border-radius: 50%;
+
+  margin: 0 5px;
+  transition: .15s;
+
+
+}
+
+.panel {
+  position: fixed !important;
+  top: 0;
+  left: 0;
+  right: 0;
+  z-index: 1000;
+  /* background: white; */
+  /* اگر پس‌زمینه شفاف است */
+  background-color: white !important;
+  box-shadow: 0 2px 4px rgba(0, 0, 0, 0.1);
+}
+
+.slides-container {
+  padding-top: 80px;
+  /* با توجه به ارتفاع panel top */
+}
+
