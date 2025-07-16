@@ -31,9 +31,7 @@
 
 ## دموی سایت
 
-🔗 [مشاهده سایت](https://example.com )
-
-> توجه: لطفاً لینک بالا را با دامنه واقعی خود جایگزین کنید.
+🔗 [مشاهده سایت](https://khanepaz.github.io/metlab/ )
 
 ---
 
@@ -67,7 +65,7 @@
 
 ## تماس با من
 
-- 📩 ایمیل: [hamed.khanepaz@example.com](mailto:hamed.khanepaz@example.com)
+- 📩 ایمیل: [hamed.khanepaz@gmail.com](mailto:hamed.khanepaz@gmail.com)
 - 💼 [لینکدین](https://www.linkedin.com/in/hamed-khanepaz-7876478a/ )
 - 💬 [واتس‌اپ](https://wa.me/989193898001 )
 
